@@ -33,7 +33,7 @@ Once the game loaded up you will see the start screen with a little animation wh
 
 
 
-![header image](https://raw.github.com/moritzjaksch/petition/master/public/assets/preview1.png)
+![header image](https://github.com/MoritzJaksch/blobbys-escape/master/assets/preview/preview1.gif)
 
  ![header image](https://raw.github.com/moritzjaksch/petition/master/public/assets/preview2.png)
 
