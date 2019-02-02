@@ -55,6 +55,12 @@ Here is a little taste of the actual level design:
 
 ![header image](https://raw.github.com/moritzjaksch/blobbys-escape/master/assets/preview/preview5.png)
 
+![header image](https://raw.github.com/moritzjaksch/blobbys-escape/master/assets/preview/preview10.png)
+
+
+
+![header image](https://raw.github.com/moritzjaksch/blobbys-escape/master/assets/preview/preview11.png)
+
 
 
 ![header image](https://raw.github.com/moritzjaksch/blobbys-escape/master/assets/preview/preview8.png)
@@ -67,29 +73,6 @@ There are 3 types of enemies:
 * The Rolling Stones: annoying balls of rock that just cant stop going forward. they will be stopped by nothing, so dont even try - better just dodge them and try to avoid them! 
 * The King: your father, the King of the Blobs.  He is waiting for you at the Great Waterfall, the only known way out of Blob Kingdom, to stop you with all he has got. He will shoot his disgusting Blob-Balls at you and cause Earthquakes by angrily jumping up and down, which will cause the cave to rumble and stones to fall from the ceiling. So you better be prepared to do what it takes to get out of there. Dont hesitate to shoot, the King won't, either! 
 
-#### <u>Personal Drawing</u>
-
-Because you supported the cause, you will be able to make little drawing of your own, to show off to all the other signers. This is a little Canvas Mod i built myself, which allows you to choose different colours and pen sizes to draw whatever you like. 
-
-![header image](https://raw.github.com/moritzjaksch/petition/master/public/assets/preview4.png)
 
 
-
-#### <u>Signers Page</u>
-
-When you are happy with your drawing and submit it, you will get to a page, where you can see all the signers and their works of art. So be sure to check those out!
-
-
-
-![header image](https://raw.github.com/moritzjaksch/petition/master/public/assets/preview5.png)
-
-
-
-#### Change your Info
-
-By using the navbar on the bottom of the page you can always go back and change your signature, your drawing and your user information if you made a mistake or just want to draw something new.
-
-
-
-![header image](https://raw.github.com/moritzjaksch/petition/master/public/assets/preview6.png)
-
+Now go on and try it yourself. (As soon as the game actually is uploaded ;)) Hope you enjoy it!
