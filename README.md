@@ -31,11 +31,11 @@ The Game will be going live in the coming days. So hold your horses just a bit l
 
 Once the game loaded up you will see the start screen with a little animation where Blobby is chased by a Jumpsquare. Once you hit the start button, a little cut-scene will play, that gives you a bit of story and setup of why Blobby wants to escape his father and the Blob Kingdom.
 
+ ![header image](https://github.com/MoritzJaksch/blobbys-escape/master/assets/preview/preview2.gif)
 
 
-![header image](https://github.com/MoritzJaksch/blobbys-escape/master/assets/preview/preview1.gif)
 
- ![header image](https://raw.github.com/moritzjaksch/petition/master/public/assets/preview2.png)
+
 
 
 
