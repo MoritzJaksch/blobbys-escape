@@ -12,9 +12,9 @@ All graphics and animations are handmade by myself. Feel free to use any of them
 
 
 
-#### Live Website
+#### Live Demo
 
-The Game will be going live in the coming days. So hold your horses just a bit longer :-)
+[Here](https://bit.ly/2CeMrGK) you can find and play a demo of the game. Have fun! :)
 
 
 
